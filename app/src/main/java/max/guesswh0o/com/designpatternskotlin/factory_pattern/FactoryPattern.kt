@@ -1,8 +1,7 @@
 package max.guesswh0o.com.designpatternskotlin.factory_pattern
 
 /**
- * Created by maxim.malisciuc on 05.03.2018.
- * Copyright CertSign
+ * Created by GuessWh0o 05.03.2018.
  * Email: developerint97@gmail.com
  */
 

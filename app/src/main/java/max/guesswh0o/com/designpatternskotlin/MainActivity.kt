@@ -6,6 +6,10 @@ import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
 import max.guesswh0o.com.designpatternskotlin.factory_pattern.FactoryPatternActivity
 
+/**
+ * Created by GuessWh0o 05.03.2018.
+ * Email: developerint97@gmail.com
+ */
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
