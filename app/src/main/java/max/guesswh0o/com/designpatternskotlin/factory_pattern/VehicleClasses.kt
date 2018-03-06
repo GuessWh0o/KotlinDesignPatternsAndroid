@@ -5,10 +5,6 @@ package max.guesswh0o.com.designpatternskotlin.factory_pattern
  * Email: developerint97@gmail.com
  */
 
-interface Vehicle {
-    fun fabricate() : String
-}
-
 class Car : Vehicle {
     override fun fabricate() : String {
         return "CREATED CAR"

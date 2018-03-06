@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".factory_pattern.FactoryPatternActivity" />
+        <activity android:name=".abstract_factory_pattern.AbstractFactoryActivity" />
     </application>
 
 </manifest>
