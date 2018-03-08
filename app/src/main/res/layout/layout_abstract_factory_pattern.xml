@@ -15,7 +15,6 @@
         android:layout_marginTop="80dp"
         android:background="@color/greyLight"
         android:padding="18dp"
-        android:text="Plane"
         android:textColor="@color/orangeLight"
         android:textSize="36sp"
         android:textStyle="bold"

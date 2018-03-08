@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DesignPatternsKotlin</string>
+    <string name="preparevegmeal">PrepareVegMeal</string>
+    <string name="prepare_non_veg_meal">Prepare Non Veg meal</string>
+    <string name="builder_pattern">Builder pattern</string>
+    <string name="singleton_pattern">Singleton pattern</string>
+    <string name="abstract_factory_pattern">Abstract Factory pattern</string>
+    <string name="factory_pattern">Factory pattern</string>
 </resources>

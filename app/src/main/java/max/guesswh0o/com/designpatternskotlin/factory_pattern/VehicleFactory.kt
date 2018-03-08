@@ -1,5 +1,4 @@
 package max.guesswh0o.com.designpatternskotlin.factory_pattern
-import max.guesswh0o.com.designpatternskotlin.factory_pattern.Vehicle
 
 /**
  * Created by GuessWh0o 05.03.2018.
